@@ -15,8 +15,8 @@ one textlayer or groups (only root will be processed), hit the plugin.
 Option       | Description
 ------------ | -------------
 Type Scale | The scale to be used
-Scale Range | The range to be scaled from 
+Scale Range | The scale range to be applied
 Type Return | Either floats or integers
-Layer Suffix | (optional) Em and (or) percentage suffix appended to layer name, based on return type
+Layer Suffix | (optional) em and (or) % suffix appended to layer name, based on return type
                 
                 
