@@ -1,7 +1,7 @@
 ##Sketch-Plugin: Typographic Scale ✍
 
 This plugin generates a typographic scale from selected text layers.<br>
-The produced scales are meant to serve as general starting points.<br>
+The produced scales are meant to serve as general starting points for building your own scales.<br>
 (Based on: http://alistapart.com/article/more-meaningful-typography)
 
 ![Shot](/image.png)
