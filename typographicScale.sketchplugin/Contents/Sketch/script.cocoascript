@@ -1,4 +1,5 @@
-// Typographic Scale (v0.1) - Creates a typographic scale from a TextLayer using its fontSize as the base scale
+          var onRun = function(context) {
+          // Typographic Scale (v0.1) - Creates a typographic scale from a TextLayer using its fontSize as the base scale
 
 (function () {
     var PLUGIN_ID = 'PLUGIN_TYPOGRAPHIC_SCALE',
@@ -7,6 +8,8 @@
     function warn(msg) {
         doc.showMessage_(PLUGIN_NAME + ' : ' + msg);
     }
+
+    var selection = context.selection;
 
     var numElements = selection.count();
     if (numElements == 0) {
@@ -268,3 +271,6 @@
     })();
 })();
 
+
+          };
+          

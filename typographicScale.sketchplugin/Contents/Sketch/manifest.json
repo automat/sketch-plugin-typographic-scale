@@ -1,0 +1,27 @@
+{
+  "name" : "Typographic Scale ✍",
+  "author" : "Henryk Wollik",
+  "identifier" : "com.example.sketch.db5bcddd-63a2-4859-8725-ab3d3d460537",
+  "version" : "2.0",
+  "description" : "",
+  "authorEmail" : "",
+  "homepage": "https://github.com/automat/sketch-plugin-typographic-scale",
+  "compatibleVersion": 44,
+  "commands" : [
+    {
+      "script" : "script.cocoascript",
+      "name" : "Typographic Scale ✍",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "sketch-typographic-scale"
+    }
+  ],
+  "menu" : {
+    "isRoot": true,
+    "title" : "Typographic Scale ✍",
+    "items" : [
+      "sketch-typographic-scale"
+    ],
+  },
+}
