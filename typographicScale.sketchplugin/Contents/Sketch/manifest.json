@@ -1,0 +1,25 @@
+{
+    "author" : "",
+    "commands" : [
+        {
+            "script" : "script.js",
+            "name" : "Typographic Scale",
+            "handlers" : {
+                      "run" : "onRun"
+            },
+            "identifier" : "scale"
+        }
+    ],
+    "menu" : {
+        "title" : "Typographic Scale",
+        "isRoot" : true,
+        "items" : [
+                   "scale"
+        ]
+    },
+    "identifier" : "com.example.sketch.b3421ee4-5c1c-479c-9ba4-641f1811dadd",
+    "version" : "1.0",
+    "description" : "",
+    "authorEmail" : "",
+    "name" : "Typographic Scale"
+}
